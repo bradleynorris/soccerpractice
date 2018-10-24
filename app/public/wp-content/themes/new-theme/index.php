@@ -3,10 +3,9 @@
 <div class="page-banner">
   <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/field.jpg') ?>);"></div>
     <div class="page-banner__content container t-center c-white">
-      <h1 class="headline headline--large">Welcome!</h1>
-      <!-- <h2 class="headline headline--medium">We think you&rsquo;ll like it here.</h2> -->
-      <h3 class="headline headline--small">Come <strong>kick it</strong> with us!</h3>
-      <a href="<?php echo site_url('/about-us'); ?>" class="btn btn--large btn--blue">Learn More</a>
+      <h1 class="headline headline--large">FRESNO</h1>
+      <h3 class="headline headline--small">INDOOR SOCCER</h3>
+      <a href="<?php echo site_url('/about-us'); ?>" class="btn btn--large btn--blue">Come <strong>kick it</strong> with us!</a>
     </div>
   </div>
 
@@ -17,26 +16,26 @@
         
         <div class="event-summary">
           <a class="event-summary__date t-center" href="#">
-            <span class="event-summary__month">Mar</span>
+            <span class="event-summary__month">Oct</span>
             <span class="event-summary__day">25</span>  
           </a>
           <div class="event-summary__content">
-            <h5 class="event-summary__title headline headline--tiny"><a href="#">Poetry in the 100</a></h5>
-            <p>Bring poems you&rsquo;ve wrote to the 100 building this Tuesday for an open mic and snacks. <a href="#" class="nu gray">Learn more</a></p>
+            <h5 class="event-summary__title headline headline--tiny"><a href="#">Coed Signups Due</a></h5>
+            <p>Registration for Coed leagues must be submitted with deposit by this date. There are still spots available in D3 and D1. <a href="#" class="nu gray">Contact Us</a></p>
           </div>
         </div>
         <div class="event-summary">
           <a class="event-summary__date t-center" href="#">
-            <span class="event-summary__month">Apr</span>
+            <span class="event-summary__month">Nov</span>
             <span class="event-summary__day">02</span>  
           </a>
           <div class="event-summary__content">
-            <h5 class="event-summary__title headline headline--tiny"><a href="#">Quad Picnic Party</a></h5>
-            <p>Live music, a taco truck and more can found in our third annual quad picnic day. <a href="#" class="nu gray">Learn more</a></p>
+            <h5 class="event-summary__title headline headline--tiny"><a href="#">Mens Tournament</a></h5>
+            <p>The mens tournament will feature 6v6 teams competing to be the FIS Champions.  T-shirts are included with registration. <a href="#" class="nu gray">Contact Us</a></p>
           </div>
         </div>
         
-        <p class="t-center no-margin"><a href="#" class="btn btn--blue">View All Events</a></p>
+        <p class="t-center no-margin"><a href="<?php echo site_url('/schedule'); ?>" class="btn btn--blue">View All Events</a></p>
 
       </div>
     </div>
@@ -46,22 +45,22 @@
 
         <div class="event-summary">
           <a class="event-summary__date event-summary__date--beige t-center" href="#">
-            <span class="event-summary__month">Jan</span>
+            <span class="event-summary__month">Sep</span>
             <span class="event-summary__day">20</span>  
           </a>
           <div class="event-summary__content">
-            <h5 class="event-summary__title headline headline--tiny"><a href="#">We Were Voted Best School</a></h5>
-            <p>For the 100th year in a row we are voted #1. <a href="#" class="nu gray">Read more</a></p>
+            <h5 class="event-summary__title headline headline--tiny"><a href="#">I Heart FC take D3 Trophy</a></h5>
+            <p>I Heart FC captured the D3 title after a multi-season run in D1. The team will be looking forward to challenging in D2 next season. <a href="#" class="nu gray">Read more</a></p>
           </div>
         </div>
         <div class="event-summary">
           <a class="event-summary__date event-summary__date--beige t-center" href="#">
-            <span class="event-summary__month">Feb</span>
+            <span class="event-summary__month">Oct</span>
             <span class="event-summary__day">04</span>  
           </a>
           <div class="event-summary__content">
-            <h5 class="event-summary__title headline headline--tiny"><a href="#">Professors in the National Spotlight</a></h5>
-            <p>Two of our professors have been in national news lately. <a href="#" class="nu gray">Read more</a></p>
+            <h5 class="event-summary__title headline headline--tiny"><a href="#">Now Hiring: Referees</a></h5>
+            <p>FIS is looking to add two more referees to our team.  Please send an email with your resume to fis@soccermail.com. <a href="#" class="nu gray">Read more</a></p>
           </div>
         </div>
         
