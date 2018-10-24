@@ -1,0 +1,5 @@
+[05-Oct-2018 01:49:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/new-theme/index.php on line 4
+[10-Oct-2018 01:09:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/new-theme/index.php on line 4
+[10-Oct-2018 01:09:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/new-theme/index.php on line 4
+[10-Oct-2018 18:41:51 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /app/public/wp-content/themes/new-theme/functions.php on line 4
+[17-Oct-2018 00:44:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/new-theme/page.php on line 21
