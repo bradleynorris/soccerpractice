@@ -6,7 +6,7 @@
 
         <div class="site-footer__col-one">
           <h1 class="footer-logo-text footer-logo-text--alt-color"><a href="<?php echo site_url(); ?>"><strong>Fresno</strong> Indoor <strong>Soccer</strong></a></h1>
-          <p><a class="site-footer__link" href="#">559.224.5425</a></p>
+          <p><a class="site-footer__link" href="<?php echo site_url('/contact'); ?>">559.224.5425</a></p>
         </div>
         <!-- Room for two more columns if needed -->
         <div class="site-footer__col-four">
