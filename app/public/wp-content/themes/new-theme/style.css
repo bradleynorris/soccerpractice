@@ -581,6 +581,32 @@
     text-decoration: underline;
   }
   
+  .header-logo-text {
+    position: relative;
+    z-index: 20;
+    margin: 0;
+    font-size: 1.75rem;
+    font-weight: 100;
+  }
+  
+  .header-logo-text strong {
+    font-weight: 400;
+  }
+  
+  .header-logo-text a {
+    color: #FFF;
+    text-decoration: none;
+  }
+  
+  .header-logo-text--alt-color a {
+    color: #666;
+  }
+  
+  .header-logo-text--alt-color a:hover {
+    color: #0D3B66;
+    text-decoration: underline;
+  }
+
   @-webkit-keyframes spin {
     0% {
       -webkit-transform: rotate(0deg);
@@ -1252,6 +1278,12 @@
   .body-no-scroll {
     overflow: hidden;
   }
+
+  .titleline {
+    margin: 0;
+    font-family: 'Rock Salt', cursive;
+    font-size: 75px;
+    }
   
   .headline {
     margin: 0;

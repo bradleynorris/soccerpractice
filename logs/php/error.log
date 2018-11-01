@@ -35,3 +35,4 @@ Stack trace:
 #8 /app/public/wp-includes/general-template.php(41): locate_template(Array, true)
 #9 /app/public/wp-content/plugins/the-events-calendar/src/Tribe/Main.php(1): get_header()
 #10 /app/public/wp-content/plugins/the-events-calendar/the-events-calendar.php(33): require_once('/app/public/wp in /app/public/wp-includes/rest-api.php on line 313
+[29-Oct-2018 19:37:49 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/new-theme/header.php on line 12

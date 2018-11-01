@@ -3,7 +3,7 @@
 <div class="page-banner">
   <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri('/images/field.jpg') ?>);"></div>
     <div class="page-banner__content container t-center c-white">
-      <h2 class="headline headline--large"><strong>Fresno</strong> Indoor <strong>Soccer</strong></h2>
+      <h2 class="titleline">Fresno Indoor Soccer</h2>
       <br>
       <br>
       <a href="<?php echo site_url('/about-us'); ?>" class="btn btn--large btn--white">Come <strong>kick it</strong> with us!</a>

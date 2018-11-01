@@ -4,10 +4,13 @@
     <?php wp_head(); ?>
 </head>
 <body>
+
 <header class="site-header">
     <div class="container">
-      <!-- Figure out how to get this to go away on /home -->
-      <h1 class="footer-logo-text float-left"><a href="<?php echo site_url(); ?>"><strong>Fresno</strong> Indoor <strong>Soccer</strong></a></h1>
+      <?php
+      if (!(is_front_page())) { ?>
+       <h1 class="header-logo-text float-left"><a href="<?php echo site_url(); ?>"><strong>Fresno</strong> Indoor <strong>Soccer</strong></a></h1>;
+      <?php } ?>
       <div class="site-header__menu group">
         <nav class="main-navigation">
           <ul>
