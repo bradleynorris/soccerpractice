@@ -9,7 +9,7 @@
     <div class="container">
       <?php
       if (!(is_front_page())) { ?>
-       <h1 class="header-logo-text float-left"><a href="<?php echo site_url(); ?>"><strong>Fresno</strong> Indoor <strong>Soccer</strong></a></h1>;
+       <h1 class="header-logo-text float-left"><a href="<?php echo site_url(); ?>"><strong>Fresno</strong> Indoor <strong>Soccer</strong></a></h1>
       <?php } ?>
       <div class="site-header__menu group">
         <nav class="main-navigation">

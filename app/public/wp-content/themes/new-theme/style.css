@@ -1619,7 +1619,7 @@
   }
   
   .metabox {
-    background-color: #FAF0CA;
+    background-color: rgb(182, 233, 180);
     border-radius: 3px;
     padding: 10px 15px;
     display: inline-block;
@@ -1646,11 +1646,11 @@
   .metabox p {
     margin: 0;
     font-size: .9rem;
-    color: rgb(168, 146, 56);
+    color: rgb(28, 22, 53);
   }
   
   .metabox a {
-    color: rgb(168, 146, 56);
+    color: rgb(23, 19, 46);
     text-decoration: none;
     font-weight: bold;
   }
@@ -1660,7 +1660,7 @@
   }
   
   .metabox .metabox__blog-home-link {
-    background-color: #0D3B66;
+    background-color: rgb(24, 58, 30);
     color: #FFF;
     display: inline-block;
     padding: 10px 15px;
@@ -1670,7 +1670,7 @@
   
   .metabox .metabox__blog-home-link:hover {
     text-decoration: none;
-    background-color: rgb(11, 47, 81);
+    background-color: rgb(24, 104, 35);
   }
   
   .post-item {
